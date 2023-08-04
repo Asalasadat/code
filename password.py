@@ -1,3 +1,4 @@
+#A random password
 import random
 letters = ['A','B' , 'C' , 'D','E','F','J','K','L','M',
          'N','O','P','Q','R','S','T','U','V','W','X','Y',
